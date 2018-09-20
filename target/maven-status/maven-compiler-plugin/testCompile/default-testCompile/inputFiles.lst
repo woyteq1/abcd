@@ -1,0 +1,5 @@
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/test/java/com/woloszunwojciech/spring5recipeapp/controllers/IndexControllerTest.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/test/java/com/woloszunwojciech/spring5recipeapp/domain/CategoryTest.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/test/java/com/woloszunwojciech/spring5recipeapp/repositories/UnitOfMeasureRepositoryIT.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/test/java/com/woloszunwojciech/spring5recipeapp/Spring5RecipeAppApplicationTests.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/test/java/com/woloszunwojciech/spring5recipeapp/services/RecipeServiceImplTest.java

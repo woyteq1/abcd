@@ -1,0 +1,14 @@
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/Difficulty.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/services/RecipeService.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/repositories/UnitOfMeasureRepository.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/Ingredient.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/Recipe.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/Spring5RecipeAppApplication.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/bootstrap/RecipeBootstrap.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/repositories/RecipeRepository.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/UnitOfMeasure.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/Category.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/controllers/IndexController.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/services/RecipeServiceImpl.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/repositories/CategoryRepository.java
+/home/wwoloszun/SpringGuru/spring5-recipe-app/src/main/java/com/woloszunwojciech/spring5recipeapp/domain/Notes.java
